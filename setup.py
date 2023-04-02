@@ -10,7 +10,6 @@ setuptools.setup(
     version= '0.0.1',
     description="CyberArk python helper function",
     long_description_content_type="text/markdown",
-    url="https://github.com/ayajnik/CyberArk-Management/tree/main",
     author="Ayush Yajnik",
     author_email="ayushyajnik1@outlook.com",
     packages = find_packages(),
