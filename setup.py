@@ -7,7 +7,7 @@ from typing import List
 setuptools.setup(
     include_package_data=True,
     name="CyberArk_KeyVault",
-    version= '0.0.1',
+    version= '0.0.2',
     description="CyberArk python helper function",
     long_description_content_type="text/markdown",
     author="Ayush Yajnik",
